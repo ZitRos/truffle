@@ -1,4 +1,4 @@
-pragma solidity ^0.4.8;
+pragma solidity ^0.4.21;
 
 // This file defines a library that can be used as well.
 library InnerLibrary {
